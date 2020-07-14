@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image title](https://caneco.dev/github-profile-view-counter.svg)
+
 #### I'm a Full-Stack Developer working in Lisbon, Portugal.
 
 - 🏢 I'm currently working at **Medicare Portugal**
