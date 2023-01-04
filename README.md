@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☀ and a Laravel Community Contributor by night ☾
+#### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
 
 Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
 Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
